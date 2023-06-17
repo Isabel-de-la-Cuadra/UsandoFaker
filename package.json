@@ -1,0 +1,26 @@
+{
+  "name": "usandofaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isabel-de-la-Cuadra/UsandoFaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isabel-de-la-Cuadra/UsandoFaker/issues"
+  },
+  "homepage": "https://github.com/Isabel-de-la-Cuadra/UsandoFaker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "rut.js": "^2.1.0"
+  }
+}
